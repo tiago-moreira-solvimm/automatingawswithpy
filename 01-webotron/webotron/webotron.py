@@ -12,8 +12,9 @@ Webotron automates the process of deploying static websites to AWS.
 - Configure a Content Delivery Network and SSL with AWS CloudFront
 """
 
-import boto3
+
 import click
+import boto3
 
 from bucket import BucketManager
 

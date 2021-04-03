@@ -13,6 +13,7 @@ pycodestyle = "*"
 pydocstyle = "*"
 pylint = "*"
 pyflakes = "*"
+boto3 = "*"
 
 [requires]
 python_version = "3.9"
