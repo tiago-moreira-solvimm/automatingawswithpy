@@ -62,7 +62,7 @@ region_to_endpoint = {
     'cn-northwest-1': Endpoint(
         'China (Ningxia)',
         's3-website.cn-northwest-1.amazonaws.com.cn',
-        'Not supported'),
+        None),
     'eu-central-1': Endpoint(
         'Europe (Frankfurt)',
         's3-website.eu-central-1.amazonaws.com',
@@ -78,7 +78,7 @@ region_to_endpoint = {
     'eu-south-1': Endpoint(
         'Europe (Milan)',
         's3-website.eu-south-1.amazonaws.com',
-        'Not supported'),
+        None),
     'eu-west-3': Endpoint(
         'Europe (Paris)',
         's3-website.eu-west-3.amazonaws.com',
@@ -90,7 +90,7 @@ region_to_endpoint = {
     'me-south-1': Endpoint(
         'Middle East(Bahrain)',
         's3-website.me-south-1.amazonaws.com',
-        'Not supported'),
+        None),
     'sa-east-1': Endpoint(
         'South America (São Paulo)',
         's3-website-sa-east-1.amazonaws.com',
